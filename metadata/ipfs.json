@@ -1,0 +1,53 @@
+{
+  "dna": "5506f78b3857d578242f725691b14c22fc29544f",
+  "name": "#1000",
+  "description": "Curious Addys' Trading Club",
+  "image": "ipfs://QmP9ayW28pbW2V9nYAjEbxv45MTezQpz8S913VbV56nkCg/1000.png",
+  "external_url": "https://curiousaddys.com/addy/1000",
+  "attributes": [
+    {
+      "trait_type": "master",
+      "value": "master"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pastel Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Original"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Eyes"
+    },
+    {
+      "trait_type": "Top Tentacle Items",
+      "value": "Pink Umbrella"
+    },
+    {
+      "trait_type": "Neck Item",
+      "value": "White Ribbon"
+    },
+    {
+      "trait_type": "Head Item",
+      "value": "Sleeping Mask"
+    },
+    {
+      "trait_type": "Center Left Tentacle Item",
+      "value": "Calculator"
+    },
+    {
+      "trait_type": "Center Right Tentacle Item",
+      "value": "Yacht"
+    },
+    {
+      "trait_type": "Mid Left Tentacle Item",
+      "value": "ETH"
+    },
+    {
+      "trait_type": "Lore",
+      "value": "263"
+    }
+  ]
+}
